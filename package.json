@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/TwilioQuest/talon#readme",
   "dependencies": {
-    "fs-jetpack": "^4.2.0"
+    "fs-jetpack": "^4.3.0"
   }
 }
